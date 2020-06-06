@@ -1,4 +1,4 @@
-# My frst Java Projects
+# My first Java Projects
 Projects list:
 
 - Check if a number is palindrom.
